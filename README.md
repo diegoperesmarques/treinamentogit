@@ -74,3 +74,10 @@ Utilizando os links automaticos
 1. HTML
 2. CSS
 3. JavaScript
+
+
+
+## Inserindo códigos
+Abaixo está um exemplo de cabeçalho em HTML 5
+
+\' <!DOCTYPE html> \'
