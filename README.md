@@ -80,4 +80,4 @@ Utilizando os links automaticos
 ## Inserindo códigos
 Abaixo está um exemplo de cabeçalho em HTML 5
 
-\' <!DOCTYPE html> \'
+` <!DOCTYPE html> `
