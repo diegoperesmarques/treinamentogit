@@ -13,5 +13,5 @@ Trabalhando com paragrafos02
 Trabalhando com paragrafos03
 
 
-Para deixar em negrito utilizar o *asterisco*
+Para deixar em negrito utilizar o *asterisco*  
 Tambem pode ser utilizando o _underline_
