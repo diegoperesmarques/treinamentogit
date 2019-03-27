@@ -50,3 +50,27 @@ Utilizando os links automaticos
 > Nesse modo colocar apenas o link entre os sinais  
 > De "Maior do que > " e o sinal de "Menor do que <"
 
+
+
+
+## Utilizando listas
+
+
+### Listas não ordenadas
+* Illustrator
+* Photoshop
+* Indesign
+
++ Fireworks
++ Flash
++ Dreamweaver
+
+- After Effects
+- Premiere
+- Maya
+
+
+### Listas ordenadas
+1. HTML
+2. CSS
+3. JavaScript
