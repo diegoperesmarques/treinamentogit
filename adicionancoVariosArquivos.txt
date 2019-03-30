@@ -1,0 +1,3 @@
+Para adicionar vários arquivos ao mesmo tempo para o stage utilize o seguinte comando
+
+git add .
