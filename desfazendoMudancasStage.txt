@@ -1,0 +1,7 @@
+Para quando o arquivo estiver na área de Stage utilize o seguinte comando
+
+
+git reset -- nomearquivo
+
+
+Ele voltara para o stagio de Untracked
