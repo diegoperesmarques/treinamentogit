@@ -1,0 +1,3 @@
+Para mudar o arquivo do arquivo arquivo.css para principal.css, faça o seguinte comando
+
+git mv arquivo.css principal.css
