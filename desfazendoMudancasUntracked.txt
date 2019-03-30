@@ -1,0 +1,4 @@
+Para desfazer mudanças que ainda não estão na área de Stage utilize o comando abaixo
+
+
+git checkout -- nomedoarquivo
