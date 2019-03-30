@@ -1,0 +1,4 @@
+Para desfazer mudanças já comitadas digite o seguinte comando
+
+
+git revert --no-edit hashCommit
