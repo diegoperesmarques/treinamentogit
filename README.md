@@ -90,6 +90,12 @@ Abaixo está um exemplo de cabeçalho em HTML 5
 > Nesse novo padrão não é necessário especificar qual DTD
 
 
+### Trabalhando com tabelas
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 10
+
 
 ### Exemplo de página de HTML
 `
@@ -101,5 +107,7 @@ Abaixo está um exemplo de cabeçalho em HTML 5
 	<body>
 	</body>
 </html>
+
+
 `
 
