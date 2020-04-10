@@ -76,6 +76,11 @@ Utilizando os links automaticos
 3. JavaScript
 
 
+### Lista de Tarefas
+- [ ] Criar projeto
+- [ ] Corrigir erros
+- [ ] Subir o repositório
+
 
 ## Inserindo códigos
 Abaixo está um exemplo de cabeçalho em HTML 5
